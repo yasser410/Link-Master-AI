@@ -1,0 +1,716 @@
+{
+  "products": [
+    {
+      "id": "prod_tkcbf4er",
+      "name": "متجر ملابس جديد",
+      "description": "تطبيق عملي متكامل مبني ومختبر من فكرة: \"تطبيق لإدارة متجر ملابس ومبيعات\"",
+      "type": "app",
+      "platform": "Web",
+      "version": "1.0.0",
+      "filename": "app_متجر_ملابس_جديد.html",
+      "filesize": 1423,
+      "mimeType": "text/html",
+      "sha256": "12b490814bfbfa7df1ff4c1bb39116187afaddc12be058efd9b93b7aa4d8e582",
+      "createdAt": "2026-11-11T10:47:13.769Z",
+      "sourceIdea": "تطبيق لإدارة متجر ملابس ومبيعات",
+      "interactiveUrl": "/api/apps/preview/app_متجر_ملابس_جديد_1794394033392.html",
+      "testStatus": {
+        "passed": true,
+        "integrityVerified": true,
+        "tests": [
+          {
+            "name": "فحص هيكل مستند HTML القياسي (DOCTYPE & HTML & BODY)",
+            "status": "PASS",
+            "details": "التحقق من صحة شجرة عناصر HTML5 القياسية"
+          },
+          {
+            "name": "فحص منطق الجافاسكربت وتفاعل الواجهة (Script Logic)",
+            "status": "PASS",
+            "details": "التحقق من وجود دوال التحكم والأحداث التفاعلية"
+          },
+          {
+            "name": "فحص التجاوبية مع الهواتف والشاشات (Viewport Meta)",
+            "status": "PASS",
+            "details": "دعم العرض المتجاوب على شاشات الهاتف والأجهزة اللوحية والحاسوب"
+          },
+          {
+            "name": "فحص دعم الاتجاه العربي والخطوط (RTL & Typography)",
+            "status": "PASS",
+            "details": "مطابقة الواجهة لمعيار العرض العربي الافتراضي"
+          },
+          {
+            "name": "فحص إدارة البيانات وحفظ الحالة (State & Persistence)",
+            "status": "PASS",
+            "details": "التحقق من وجود آليات تخزين واسترجاع بيانات التطبيق"
+          }
+        ]
+      },
+      "installationInstructions": {
+        "ar": "يمكنك تجربة التطبيق فوراً في المعاينة التفاعلية أو تنزيل ملف التطبيق كصفحة مستقلة تعمل على أي جهاز دون إنترنت.",
+        "en": "Run in the live interactive sandbox or download as a standalone single-file offline application."
+      }
+    },
+    {
+      "id": "prod_xhq4hhcr",
+      "name": "متجر ملابس جديد",
+      "description": "تطبيق عملي متكامل مبني ومختبر من فكرة: \"تطبيق لإدارة متجر ملابس ومبيعات\"",
+      "type": "app",
+      "platform": "Web",
+      "version": "1.0.0",
+      "filename": "app_متجر_ملابس_جديد_1794394033392.html",
+      "filesize": 12811,
+      "mimeType": "text/html",
+      "sha256": "83bad6337b57242cec7806727733e8a52cbce17bf233fb43be488b4e4e77d350",
+      "createdAt": "2026-11-11T10:47:13.415Z",
+      "sourceIdea": "تطبيق لإدارة متجر ملابس ومبيعات",
+      "interactiveUrl": "/api/apps/preview/app_متجر_ملابس_جديد_1794394033392.html",
+      "testStatus": {
+        "passed": true,
+        "integrityVerified": true,
+        "tests": [
+          {
+            "name": "فحص هيكل مستند HTML القياسي (DOCTYPE & HTML & BODY)",
+            "status": "PASS",
+            "details": "التحقق من صحة شجرة عناصر HTML5 القياسية"
+          },
+          {
+            "name": "فحص منطق الجافاسكربت وتفاعل الواجهة (Script Logic)",
+            "status": "PASS",
+            "details": "التحقق من وجود دوال التحكم والأحداث التفاعلية"
+          },
+          {
+            "name": "فحص التجاوبية مع الهواتف والشاشات (Viewport Meta)",
+            "status": "PASS",
+            "details": "دعم العرض المتجاوب على شاشات الهاتف والأجهزة اللوحية والحاسوب"
+          },
+          {
+            "name": "فحص دعم الاتجاه العربي والخطوط (RTL & Typography)",
+            "status": "PASS",
+            "details": "مطابقة الواجهة لمعيار العرض العربي الافتراضي"
+          },
+          {
+            "name": "فحص إدارة البيانات وحفظ الحالة (State & Persistence)",
+            "status": "PASS",
+            "details": "التحقق من وجود آليات تخزين واسترجاع بيانات التطبيق"
+          }
+        ]
+      },
+      "installationInstructions": {
+        "ar": "يمكنك تشغيل التطبيق مباشرة عبر زر المعاينة التفاعلية أو تنزيل ملف التطبيق كصفحة مستقلة تعمل على أي جهاز دون إنترنت.",
+        "en": "Run the application instantly in interactive preview mode or download the standalone single-file package to use offline anywhere."
+      }
+    },
+    {
+      "id": "prod_store_app",
+      "name": "نظام إدارة متجر الأناقة (Store Management App)",
+      "description": "تطبيق ويب تفاعلي متكامل لإدارة مخزون المتجر والمبيعات والأسعار مع تصدير البيانات",
+      "type": "app",
+      "platform": "Web",
+      "version": "1.0.0",
+      "filename": "app_store_manager_verified.html",
+      "filesize": 3986,
+      "mimeType": "text/html",
+      "sha256": "3e965e7be6d9af04181bf0886e1f014a1ce1026a47ce79a9677271247aa245fb",
+      "createdAt": "2026-11-11T10:44:41.594Z",
+      "interactiveUrl": "/api/apps/preview/app_store_manager_verified.html",
+      "testStatus": {
+        "passed": true,
+        "integrityVerified": true,
+        "tests": [
+          {
+            "name": "فحص شجرة عناصر HTML5 القياسية",
+            "status": "PASS"
+          },
+          {
+            "name": "فحص منطق الجافاسكربت وتفاعل الواجهة",
+            "status": "PASS"
+          },
+          {
+            "name": "التجاوب الكامل مع الهواتف والحواسيب",
+            "status": "PASS"
+          }
+        ]
+      },
+      "installationInstructions": {
+        "ar": "يمكن تشغيل التطبيق مباشرة في المتصفح أو تنزيل ملف HTML المستقل للعمل بدون إنترنت.",
+        "en": "Run in the browser directly or download the standalone HTML file to run offline anywhere."
+      }
+    },
+    {
+      "id": "prod_spec_pdf",
+      "name": "وثيقة المواصفات الرسمية للمنصة (System Specification PDF)",
+      "description": "مستند PDF رسمي وموثق يوضح معايير الأمان والبناء في منصة Yasser Universal Builder",
+      "type": "document",
+      "platform": "Cross-Platform",
+      "version": "1.0.0",
+      "filename": "yasser_builder_spec_sheet.pdf",
+      "filesize": 843,
+      "mimeType": "application/pdf",
+      "sha256": "5edebb9f9d25ce6e4723d79709d91a2dd7e6db8ac3abfd6c724888bd8aa7c4c0",
+      "createdAt": "2026-11-11T10:44:41.595Z",
+      "testStatus": {
+        "passed": true,
+        "integrityVerified": true,
+        "tests": [
+          {
+            "name": "مطابقة ترويسة PDF 1.4 القياسية",
+            "status": "PASS"
+          },
+          {
+            "name": "سلامة التشفير والبصمة الثنائية",
+            "status": "PASS"
+          }
+        ]
+      },
+      "installationInstructions": {
+        "ar": "افتح الملف في أي قارئ PDF أو متصفح ويب.",
+        "en": "Open in any PDF reader or modern browser."
+      }
+    },
+    {
+      "id": "prod_telemetry_json",
+      "name": "بيانات المحركات السحابية المهيكلة (Telemetry Dataset JSON)",
+      "description": "ملف بيانات JSON يحتوي على إحصائيات المحركات والعمال المخصصين",
+      "type": "document",
+      "platform": "Cross-Platform",
+      "version": "1.0.0",
+      "filename": "cloud_engines_telemetry.json",
+      "filesize": 286,
+      "mimeType": "application/json",
+      "sha256": "db88c2ffb8b1790592745d311743f0f391deb6bf125a2cee34d0e76887e18f32",
+      "createdAt": "2026-11-11T10:44:41.595Z",
+      "testStatus": {
+        "passed": true,
+        "integrityVerified": true,
+        "tests": [
+          {
+            "name": "فحص هيكل JSON وصحة الترميز",
+            "status": "PASS"
+          }
+        ]
+      },
+      "installationInstructions": {
+        "ar": "جاهز للاستيراد في أي قاعدة بيانات أو واجهة برمجية API.",
+        "en": "Ready for database import or API ingestion."
+      }
+    }
+  ],
+  "jobs": [
+    {
+      "id": "job_1v4rtfw1",
+      "title": "Test Conversion",
+      "category": "url_conversion",
+      "status": "Created",
+      "progress": 5,
+      "input": "https://example.com",
+      "outputFormat": "markdown",
+      "targetPlatform": "Cross-Platform",
+      "createdAt": "2026-11-11T16:57:18.531Z",
+      "updatedAt": "2026-11-11T16:57:18.531Z",
+      "logs": [
+        {
+          "timestamp": "2026-11-11T16:57:18.531Z",
+          "phase": "Queue",
+          "message": "تم استلام طلب التحويل وجدولته في طابور العمليات المعزولة",
+          "type": "info"
+        }
+      ]
+    },
+    {
+      "id": "job_lf4lphcb",
+      "title": "مستند ويكيبيديا العربية",
+      "category": "url_conversion",
+      "status": "Ready",
+      "progress": 100,
+      "input": "https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9",
+      "outputFormat": "pdf",
+      "targetPlatform": "Cross-Platform",
+      "createdAt": "2026-11-11T10:47:59.903Z",
+      "updatedAt": "2026-11-11T10:47:59.903Z",
+      "logs": [
+        {
+          "timestamp": "2026-11-11T10:47:59.903Z",
+          "phase": "Queue",
+          "message": "تم استلام طلب التحويل وجدولته في طابور العمليات المعزولة",
+          "type": "info"
+        }
+      ],
+      "completedAt": "2026-11-11T16:57:05.723Z"
+    },
+    {
+      "id": "job_16sfl84j",
+      "title": "متجر ملابس جديد",
+      "category": "app_generation",
+      "status": "Ready",
+      "progress": 100,
+      "input": "تطبيق لإدارة متجر ملابس ومبيعات",
+      "outputFormat": "app",
+      "targetPlatform": "Web",
+      "createdAt": "2026-11-11T10:47:00.875Z",
+      "updatedAt": "2026-11-11T10:47:13.771Z",
+      "logs": [
+        {
+          "timestamp": "2026-11-11T10:47:00.875Z",
+          "phase": "Queue",
+          "message": "تم استلام طلب التحويل وجدولته في طابور العمليات المعزولة",
+          "type": "info"
+        },
+        {
+          "timestamp": "2026-11-11T10:47:00.980Z",
+          "phase": "Analyzing",
+          "message": "بدء فحص المدخلات والتحقق من السلامة الأمنية: \"تطبيق لإدارة متجر ملابس ومبيعات\"",
+          "type": "info"
+        },
+        {
+          "timestamp": "2026-11-11T10:47:01.382Z",
+          "phase": "Analyzing",
+          "message": "تحليل فكرة التطبيق واستخراج متطلبات واجهة المستخدم وقواعد البيانات",
+          "type": "info"
+        },
+        {
+          "timestamp": "2026-11-11T10:47:01.382Z",
+          "phase": "Building",
+          "message": "توليد الكود البرمجي التفاعلي وربط مخزن البيانات المحلي والتصميم المتجاوب",
+          "type": "info"
+        },
+        {
+          "timestamp": "2026-11-11T10:47:13.415Z",
+          "phase": "Testing",
+          "message": "إجراء الفحوصات الآلية لشجرة العناصر وتكامل الجافاسكربت وتوافق الهواتف",
+          "type": "info"
+        },
+        {
+          "timestamp": "2026-11-11T10:47:13.417Z",
+          "phase": "Testing",
+          "message": "إجراء اختبارات السلامة وفحص التوافق وحساب بصمة SHA-256 للملف النهائي",
+          "type": "info"
+        },
+        {
+          "timestamp": "2026-11-11T10:47:13.768Z",
+          "phase": "Packaging",
+          "message": "تم حفظ الملف النهائي بحجم 12.5 KB وبصمة موثقة",
+          "type": "success"
+        },
+        {
+          "timestamp": "2026-11-11T10:47:13.770Z",
+          "phase": "Ready",
+          "message": "اكتملت المهمة بنجاح وجاهزة للتنزيل المباشر (معرف المنتج: prod_tkcbf4er)",
+          "type": "success"
+        }
+      ],
+      "completedAt": "2026-11-11T10:47:13.771Z",
+      "productId": "prod_tkcbf4er"
+    },
+    {
+      "id": "job_38ryjjg9",
+      "title": "متجر تجريبي",
+      "category": "app_generation",
+      "status": "Ready",
+      "progress": 100,
+      "input": "تطبيق بسيط لإدارة متجر ملابس ومبيعات",
+      "outputFormat": "app",
+      "targetPlatform": "Web",
+      "createdAt": "2026-11-11T10:45:17.481Z",
+      "updatedAt": "2026-11-11T10:45:17.987Z",
+      "logs": [
+        {
+          "timestamp": "2026-11-11T10:45:17.481Z",
+          "phase": "Queue",
+          "message": "تم استلام طلب التحويل وجدولته في طابور العمليات المعزولة",
+          "type": "info"
+        },
+        {
+          "timestamp": "2026-11-11T10:45:17.585Z",
+          "phase": "Analyzing",
+          "message": "بدء فحص المدخلات والتحقق من السلامة الأمنية: \"تطبيق بسيط لإدارة متجر ملابس ومبيعات\"",
+          "type": "info"
+        },
+        {
+          "timestamp": "2026-11-11T10:45:17.986Z",
+          "phase": "Analyzing",
+          "message": "تحليل فكرة التطبيق واستخراج متطلبات واجهة المستخدم وقواعد البيانات",
+          "type": "info"
+        },
+        {
+          "timestamp": "2026-11-11T10:45:17.987Z",
+          "phase": "Building",
+          "message": "توليد الكود البرمجي التفاعلي وربط مخزن البيانات المحلي والتصميم المتجاوب",
+          "type": "info"
+        }
+      ],
+      "completedAt": "2026-11-11T16:57:05.724Z"
+    }
+  ],
+  "engines": [
+    {
+      "id": "url_converter",
+      "name": "محرك تحويل الروابط (URL Converter)",
+      "description": "تحويل مواقع وصفحات الويب إلى PWA وPDF وماركدون وحزم تطبيقات هاتف وحاسوب",
+      "enabled": true,
+      "activeWorkers": 4,
+      "totalProcessed": 182,
+      "successRate": 99.4
+    },
+    {
+      "id": "ai_app_builder",
+      "name": "محرك بناء التطبيقات بالذكاء الاصطناعي (AI App Builder)",
+      "description": "تحليل الأفكار وتوليد تطبيقات ويب تفاعلية متكاملة مع واجهة وقاعدة بيانات واختبارات",
+      "enabled": true,
+      "activeWorkers": 3,
+      "totalProcessed": 94,
+      "successRate": 97.8
+    },
+    {
+      "id": "file_converter",
+      "name": "مركز تحويل الملفات الشامل (Universal File Converter)",
+      "description": "تحويل المستندات والصور والبيانات مع حساب البصمة وتأكيد السلامة",
+      "enabled": true,
+      "activeWorkers": 5,
+      "totalProcessed": 310,
+      "successRate": 100
+    },
+    {
+      "id": "media_processor",
+      "name": "معالج الوسائط والصوتيات (Media & Audio Processor)",
+      "description": "استخراج الصوت ومعالجة بيانات الوسائط المصرح بها وتحويل صيغ الملفات",
+      "enabled": true,
+      "activeWorkers": 2,
+      "totalProcessed": 78,
+      "successRate": 98.7
+    },
+    {
+      "id": "package_engine",
+      "name": "محرك بناء حزم الأجهزة والمنصات (Packaging Engine)",
+      "description": "إنشاء حزم Android Wrapper وDesktop Launchers ومواصفات PWA المستقلة",
+      "enabled": true,
+      "activeWorkers": 3,
+      "totalProcessed": 142,
+      "successRate": 98.9
+    }
+  ],
+  "aiProviders": [
+    {
+      "id": "gemini-flash",
+      "name": "Google Gemini 3.8 Flash (Server Native)",
+      "provider": "gemini",
+      "model": "gemini-3.8-flash",
+      "status": "active",
+      "latencyMs": 380,
+      "isDefault": true,
+      "pricingInfo": "مضمن سحابياً عبر المفتاح الآمن للخادم - سرعة فائقة وتكلفة مثالية"
+    },
+    {
+      "id": "openai-gpt",
+      "name": "OpenAI Gateway (GPT-4o Adapter)",
+      "provider": "openai",
+      "model": "gpt-4o",
+      "status": "configured",
+      "latencyMs": 720,
+      "isDefault": false,
+      "pricingInfo": "محول متوافق مع معايير OpenAI REST API"
+    },
+    {
+      "id": "groq-llama",
+      "name": "Groq Ultra-Fast (Llama 3.3)",
+      "provider": "groq",
+      "model": "llama-3.3-70b-versatile",
+      "status": "configured",
+      "latencyMs": 190,
+      "isDefault": false,
+      "pricingInfo": "استجابة فائقة السرعة للاستدلال السريع"
+    },
+    {
+      "id": "deepseek-v3",
+      "name": "DeepSeek Reasoner Gateway",
+      "provider": "deepseek",
+      "model": "deepseek-chat",
+      "status": "configured",
+      "latencyMs": 840,
+      "isDefault": false,
+      "pricingInfo": "معالجة عالية الكفاءة للكود والمنطق البرمجي"
+    }
+  ],
+  "userStorage": {
+    "usedBytes": 15445622,
+    "quotaBytes": 10737418240,
+    "totalDownloads": 52
+  },
+  "workers": [
+    {
+      "id": "WRK-01",
+      "name": "Worker 01 (SSRF & Security Sentinel)",
+      "engineId": "url_converter",
+      "engineName": "URL Foundry",
+      "status": "IDLE",
+      "currentJobId": null,
+      "currentJobTitle": null,
+      "uptimeSeconds": 84200,
+      "cpuPercent": 1.2,
+      "memoryMb": 128,
+      "processedJobs": 48,
+      "lastError": null
+    },
+    {
+      "id": "WRK-02",
+      "name": "Worker 02 (DOM & Content Extractor)",
+      "engineId": "url_converter",
+      "engineName": "URL Foundry",
+      "status": "IDLE",
+      "currentJobId": null,
+      "currentJobTitle": null,
+      "uptimeSeconds": 84200,
+      "cpuPercent": 0.8,
+      "memoryMb": 142,
+      "processedJobs": 52,
+      "lastError": null
+    },
+    {
+      "id": "WRK-03",
+      "name": "Worker 03 (PDF Document Engine)",
+      "engineId": "url_converter",
+      "engineName": "URL Foundry",
+      "status": "IDLE",
+      "currentJobId": null,
+      "currentJobTitle": null,
+      "uptimeSeconds": 84200,
+      "cpuPercent": 0.5,
+      "memoryMb": 160,
+      "processedJobs": 44,
+      "lastError": null
+    },
+    {
+      "id": "WRK-04",
+      "name": "Worker 04 (PWA Package Bundler)",
+      "engineId": "url_converter",
+      "engineName": "URL Foundry",
+      "status": "IDLE",
+      "currentJobId": null,
+      "currentJobTitle": null,
+      "uptimeSeconds": 84200,
+      "cpuPercent": 1.4,
+      "memoryMb": 180,
+      "processedJobs": 38,
+      "lastError": null
+    },
+    {
+      "id": "WRK-05",
+      "name": "Worker 05 (Architecture Synthesizer)",
+      "engineId": "ai_app_builder",
+      "engineName": "AI App Foundry",
+      "status": "IDLE",
+      "currentJobId": null,
+      "currentJobTitle": null,
+      "uptimeSeconds": 91400,
+      "cpuPercent": 2.1,
+      "memoryMb": 240,
+      "processedJobs": 34,
+      "lastError": null
+    },
+    {
+      "id": "WRK-06",
+      "name": "Worker 06 (Interactive Sandbox Runtime)",
+      "engineId": "ai_app_builder",
+      "engineName": "AI App Foundry",
+      "status": "IDLE",
+      "currentJobId": null,
+      "currentJobTitle": null,
+      "uptimeSeconds": 91400,
+      "cpuPercent": 1.6,
+      "memoryMb": 210,
+      "processedJobs": 31,
+      "lastError": null
+    },
+    {
+      "id": "WRK-07",
+      "name": "Worker 07 (App Logic Verifier)",
+      "engineId": "ai_app_builder",
+      "engineName": "AI App Foundry",
+      "status": "IDLE",
+      "currentJobId": null,
+      "currentJobTitle": null,
+      "uptimeSeconds": 91400,
+      "cpuPercent": 0.9,
+      "memoryMb": 195,
+      "processedJobs": 29,
+      "lastError": null
+    },
+    {
+      "id": "WRK-08",
+      "name": "Worker 08 (Document Transmuter)",
+      "engineId": "file_converter",
+      "engineName": "Universal File Lab",
+      "status": "IDLE",
+      "currentJobId": null,
+      "currentJobTitle": null,
+      "uptimeSeconds": 76500,
+      "cpuPercent": 0.4,
+      "memoryMb": 110,
+      "processedJobs": 65,
+      "lastError": null
+    },
+    {
+      "id": "WRK-09",
+      "name": "Worker 09 (Data Normalizer CSV/JSON)",
+      "engineId": "file_converter",
+      "engineName": "Universal File Lab",
+      "status": "IDLE",
+      "currentJobId": null,
+      "currentJobTitle": null,
+      "uptimeSeconds": 76500,
+      "cpuPercent": 0.6,
+      "memoryMb": 115,
+      "processedJobs": 72,
+      "lastError": null
+    },
+    {
+      "id": "WRK-10",
+      "name": "Worker 10 (Image Format Processor)",
+      "engineId": "file_converter",
+      "engineName": "Universal File Lab",
+      "status": "IDLE",
+      "currentJobId": null,
+      "currentJobTitle": null,
+      "uptimeSeconds": 76500,
+      "cpuPercent": 1.1,
+      "memoryMb": 145,
+      "processedJobs": 58,
+      "lastError": null
+    },
+    {
+      "id": "WRK-11",
+      "name": "Worker 11 (Archive Decompressor)",
+      "engineId": "file_converter",
+      "engineName": "Universal File Lab",
+      "status": "IDLE",
+      "currentJobId": null,
+      "currentJobTitle": null,
+      "uptimeSeconds": 76500,
+      "cpuPercent": 0.7,
+      "memoryMb": 130,
+      "processedJobs": 61,
+      "lastError": null
+    },
+    {
+      "id": "WRK-12",
+      "name": "Worker 12 (Cryptographic Hasher)",
+      "engineId": "file_converter",
+      "engineName": "Universal File Lab",
+      "status": "IDLE",
+      "currentJobId": null,
+      "currentJobTitle": null,
+      "uptimeSeconds": 76500,
+      "cpuPercent": 0.3,
+      "memoryMb": 95,
+      "processedJobs": 54,
+      "lastError": null
+    },
+    {
+      "id": "WRK-13",
+      "name": "Worker 13 (Audio Synthesizer 44.1k)",
+      "engineId": "media_processor",
+      "engineName": "Audio Workshop",
+      "status": "IDLE",
+      "currentJobId": null,
+      "currentJobTitle": null,
+      "uptimeSeconds": 68000,
+      "cpuPercent": 1.5,
+      "memoryMb": 175,
+      "processedJobs": 41,
+      "lastError": null
+    },
+    {
+      "id": "WRK-14",
+      "name": "Worker 14 (Media Spectrum Analyzer)",
+      "engineId": "media_processor",
+      "engineName": "Audio Workshop",
+      "status": "IDLE",
+      "currentJobId": null,
+      "currentJobTitle": null,
+      "uptimeSeconds": 68000,
+      "cpuPercent": 0.8,
+      "memoryMb": 165,
+      "processedJobs": 37,
+      "lastError": null
+    },
+    {
+      "id": "WRK-15",
+      "name": "Worker 15 (Android Wrapper Builder)",
+      "engineId": "package_engine",
+      "engineName": "Build & Packaging",
+      "status": "IDLE",
+      "currentJobId": null,
+      "currentJobTitle": null,
+      "uptimeSeconds": 88900,
+      "cpuPercent": 2.4,
+      "memoryMb": 320,
+      "processedJobs": 49,
+      "lastError": null
+    },
+    {
+      "id": "WRK-16",
+      "name": "Worker 16 (Desktop Shell Packager)",
+      "engineId": "package_engine",
+      "engineName": "Build & Packaging",
+      "status": "IDLE",
+      "currentJobId": null,
+      "currentJobTitle": null,
+      "uptimeSeconds": 88900,
+      "cpuPercent": 1.9,
+      "memoryMb": 280,
+      "processedJobs": 46,
+      "lastError": null
+    },
+    {
+      "id": "WRK-17",
+      "name": "Worker 17 (Integrity & Release Signer)",
+      "engineId": "package_engine",
+      "engineName": "Build & Packaging",
+      "status": "IDLE",
+      "currentJobId": null,
+      "currentJobTitle": null,
+      "uptimeSeconds": 88900,
+      "cpuPercent": 0.5,
+      "memoryMb": 150,
+      "processedJobs": 47,
+      "lastError": null
+    }
+  ],
+  "securityLogs": [
+    {
+      "id": "SEC-LOG-01",
+      "timestamp": "2026-11-11T11:28:14.096Z",
+      "event": "SSRF_PROBE_LOOPBACK",
+      "target": "127.0.0.1:8080/admin",
+      "action": "BLOCKED",
+      "reason": "محاولة وصول إلى عنوان استرجاع محلي محظور",
+      "severity": "HIGH"
+    },
+    {
+      "id": "SEC-LOG-02",
+      "timestamp": "2026-11-11T10:28:14.096Z",
+      "event": "METADATA_EXTRACT_ATTEMPT",
+      "target": "169.254.169.254/latest",
+      "action": "BLOCKED",
+      "reason": "حظر استخراج بيانات ميتاداتا السحابة الحساسة",
+      "severity": "HIGH"
+    },
+    {
+      "id": "SEC-LOG-03",
+      "timestamp": "2026-11-11T09:28:14.096Z",
+      "event": "UNSAFE_REDIRECT_CHAIN",
+      "target": "http://malicious-redirector.test/dl",
+      "action": "BLOCKED",
+      "reason": "سلسلة إعادة توجيه غير آمنة تقود لشبكة غير مصرح بها",
+      "severity": "MEDIUM"
+    },
+    {
+      "id": "SEC-LOG-04",
+      "timestamp": "2026-11-11T08:28:14.096Z",
+      "event": "SAFE_URL_VERIFIED",
+      "target": "https://news.ycombinator.com",
+      "action": "ALLOWED",
+      "reason": "رابط آمن ومطابق لمعايير HTTPS",
+      "severity": "LOW"
+    }
+  ]
+}

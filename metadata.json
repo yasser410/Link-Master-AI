@@ -1,0 +1,8 @@
+{
+  "name": "Yasser Universal Builder",
+  "description": "المنصة السحابية الشاملة لتحويل الروابط والأفكار إلى منتجات نهائية جاهزة للاستخدام - إشراف الحاج ياسر",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

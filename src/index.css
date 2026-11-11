@@ -1,0 +1,89 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@layer base {
+  :root {
+    --foundry-canvas: #F1EBDD;
+    --foundry-panel: #FAF8F2;
+    --foundry-panel-alt: #E8E1D2;
+    --foundry-border: #D6CFC0;
+    --foundry-border-strong: #A8A193;
+    --foundry-copper: #A65F3C;
+    --foundry-brass: #8C653C;
+    --foundry-text: #202322;
+    --foundry-muted: #6E7067;
+    font-family: 'Cairo', 'Manrope', system-ui, -apple-system, sans-serif;
+  }
+
+  .dark {
+    --foundry-canvas: #202322;
+    --foundry-panel: #292D2B;
+    --foundry-panel-alt: #242725;
+    --foundry-border: #454943;
+    --foundry-border-strong: #5A5F57;
+    --foundry-copper: #B76E45;
+    --foundry-brass: #C69B70;
+    --foundry-text: #F1EBDD;
+    --foundry-muted: #AAA99F;
+  }
+
+  body {
+    background-color: var(--foundry-canvas);
+    color: var(--foundry-text);
+  }
+
+  [dir="ltr"] {
+    font-family: 'Manrope', 'Cairo', system-ui, -apple-system, sans-serif;
+  }
+
+  .font-mono, code, kbd, samp, pre {
+    font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .tabular-nums {
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+/* Industrial Grid Pattern Overlay */
+.foundry-grid-bg {
+  background-size: 32px 32px;
+  background-image: 
+    linear-gradient(to right, rgba(69, 73, 67, 0.15) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(69, 73, 67, 0.15) 1px, transparent 1px);
+}
+
+.dark .foundry-grid-bg {
+  background-image: 
+    linear-gradient(to right, rgba(69, 73, 67, 0.22) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(69, 73, 67, 0.22) 1px, transparent 1px);
+}
+
+/* Custom industrial scrollbars */
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--foundry-canvas);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--foundry-border);
+  border-radius: 2px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--foundry-copper);
+}
+
+/* Technical chamfer cuts for brutalist industrial feel */
+.foundry-cut-sm {
+  clip-path: polygon(0 0, calc(100% - 8px) 0, 100% 8px, 100% 100%, 0 100%);
+}
+
+.foundry-cut-card {
+  clip-path: polygon(0 0, calc(100% - 14px) 0, 100% 14px, 100% 100%, 0 100%);
+}

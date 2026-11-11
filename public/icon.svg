@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <!-- Digital Foundry Copper & Brass Metallurgy Gradients -->
+    <linearGradient id="foundry_copper" x1="40" y1="40" x2="472" y2="472" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#C69B70" />
+      <stop offset="50%" stop-color="#B76E45" />
+      <stop offset="100%" stop-color="#8C4A26" />
+    </linearGradient>
+    <linearGradient id="carbon_body" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#292D2B" />
+      <stop offset="100%" stop-color="#202322" />
+    </linearGradient>
+    <pattern id="grid_dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="12" cy="12" r="1.5" fill="#454943" opacity="0.6" />
+    </pattern>
+  </defs>
+
+  <!-- Heavy Industrial Base with Chamfered Corners -->
+  <path d="M48 16 L464 16 L496 48 L496 464 L464 496 L48 496 L16 464 L16 48 Z" fill="url(#carbon_body)" stroke="#454943" stroke-width="4" />
+  <rect x="24" y="24" width="464" height="464" fill="url(#grid_dots)" opacity="0.4" />
+
+  <!-- Technical Calibration Marks -->
+  <line x1="24" y1="256" x2="48" y2="256" stroke="#C69B70" stroke-width="2" />
+  <line x1="464" y1="256" x2="488" y2="256" stroke="#C69B70" stroke-width="2" />
+  <line x1="256" y1="24" x2="256" y2="48" stroke="#C69B70" stroke-width="2" />
+  <line x1="256" y1="464" x2="256" y2="488" stroke="#C69B70" stroke-width="2" />
+
+  <!-- The Digital Foundry Crucible & Anvil Geometry -->
+  <g transform="translate(256, 240)">
+    <!-- Molten Flow Crucible Ingot -->
+    <polygon points="0,-120 120,-40 90,80 -90,80 -120,-40" fill="none" stroke="url(#foundry_copper)" stroke-width="14" stroke-linejoin="miter" />
+    
+    <!-- Central Precision Core (Industrial Transformation Diamond) -->
+    <polygon points="0,-70 60,0 0,70 -60,0" fill="#292D2B" stroke="#C69B70" stroke-width="8" />
+    <circle cx="0" cy="0" r="18" fill="#B76E45" />
+
+    <!-- Isometric Alignment Vectors -->
+    <line x1="-120" y1="-40" x2="-60" y2="0" stroke="#454943" stroke-width="4" stroke-dasharray="4 4" />
+    <line x1="120" y1="-40" x2="60" y2="0" stroke="#454943" stroke-width="4" stroke-dasharray="4 4" />
+    <line x1="0" y1="-120" x2="0" y2="-70" stroke="#454943" stroke-width="4" stroke-dasharray="4 4" />
+  </g>
+
+  <!-- Industrial Monogram & Tag -->
+  <text x="256" y="420" font-family="'Cairo', 'JetBrains Mono', monospace" font-size="28" font-weight="900" fill="#F1EBDD" text-anchor="middle" letter-spacing="4">THE DIGITAL FOUNDRY</text>
+  <text x="256" y="448" font-family="'JetBrains Mono', monospace" font-size="12" font-weight="600" fill="#C69B70" text-anchor="middle" letter-spacing="3">EL HAG YASSER // INDUSTRIAL CORE</text>
+</svg>
